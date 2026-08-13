@@ -21,3 +21,4 @@ plt.ylabel("Quantidade de Alunos")
 
 # IMPRIMIR OU EXIBIR O GRAFICO
 plt.show()
+
