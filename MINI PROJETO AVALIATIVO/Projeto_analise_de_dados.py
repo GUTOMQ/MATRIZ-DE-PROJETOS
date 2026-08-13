@@ -1,6 +1,6 @@
 # ============================================================
 # PROJETO: ANÁLISE EXPLORATÓRIA - BASE VAREJO
-# Autor: Gustavo Queiroga
+# Autor: Gustavo Machado Queiroga
 # ============================================================
 
 import pandas as pd
